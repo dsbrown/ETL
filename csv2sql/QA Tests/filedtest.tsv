@@ -1,0 +1,90 @@
+           Key is in	CSV	Database
+         AWSSiteCode	 	X
+      AssessmentGUID	X	X
+BizDevRepresentative	X	X
+        BizDevSelect	X	X
+    BizDevSelectDate	X	X
+           ClusterID	X	X
+         ClusterName	X	X
+      CompScoreAIA02	X	X
+      CompScoreAIA11	X	X
+      CompScoreAIA21	X	X
+      CompScoreAIA23	X	X
+      CompScoreAIA25	X	X
+      CompScoreAIA26	X	X
+      CompScoreAIA27	X	X
+      CompScoreAIA28	X	X
+      CompScoreAIA33	 	X
+      CompScoreTotal	X	X
+     FinalReportDate	X	X
+       IPSGOEngineer	X	X
+         IPSGOSelect	X	X
+               InDev	X	X
+              InProd	X	X
+            LSEvents	 	X
+       Ph1ScoreAIA02	X	X
+       Ph1ScoreAIA11	X	X
+       Ph1ScoreAIA21	X	X
+       Ph1ScoreAIA23	X	X
+       Ph1ScoreAIA25	X	X
+       Ph1ScoreAIA26	X	X
+       Ph1ScoreAIA27	X	X
+       Ph1ScoreAIA28	X	X
+       Ph1ScoreAIA33	 	X
+       Ph1ScoreTotal	X	X
+       Ph2ScoreAIA02	X	X
+       Ph2ScoreAIA11	X	X
+       Ph2ScoreAIA21	X	X
+       Ph2ScoreAIA23	X	X
+       Ph2ScoreAIA25	X	X
+       Ph2ScoreAIA26	X	X
+       Ph2ScoreAIA27	X	X
+       Ph2ScoreAIA28	X	X
+       Ph2ScoreAIA33	 	X
+       Ph2ScoreTotal	X	X
+       Ph3ScoreAIA02	X	X
+       Ph3ScoreAIA11	X	X
+       Ph3ScoreAIA21	X	X
+       Ph3ScoreAIA23	X	X
+       Ph3ScoreAIA25	X	X
+       Ph3ScoreAIA26	X	X
+       Ph3ScoreAIA27	X	X
+       Ph3ScoreAIA28	X	X
+       Ph3ScoreAIA33	 	X
+       Ph3ScoreTotal	X	X
+    PrelimReportDate	X	X
+         ProjectName	X	X
+      ReasonsAgainst	X	X
+          ReasonsFor	X	X
+       SelectedByBiz	 	X
+        ShowStoppers	X	X
+     SiteDeliverDate	X	X
+              SiteId	 	X
+          SiteId_tbl	 	X
+            SiteUUID	 	X
+          TypeAIV_CF	X	X
+            TypeCorp	X	X
+         TypeCritNet	X	X
+              TypeDX	X	X
+             TypeEC2	X	X
+          TypeGrumpy	X	X
+             TypeHPC	X	X
+           TypeOther	 	X
+            TypeProd	X	X
+          TypeTCF_CF	X	X
+             TypeVPC	X	X
+             Type_X1	X	X
+             Type_X2	X	X
+             Type_X3	X	X
+             Type_X4	X	X
+          VendorName	X	X
+   VendorSiteAddress	X	X
+      VendorSiteCity	X	X
+   VendorSiteCountry	X	X
+  VendorSiteLatitude	X	X
+ VendorSiteLongitude	X	X
+      VendorSiteName	X	X
+VendorSitePostalCode	 	X
+     VendorSiteState	X	X
+ VendorSiteVisitDate	X	X
+   idAssessmentTable	 	X
